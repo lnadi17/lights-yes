@@ -1,4 +1,2 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/Luka/Desktop/manim2/manim/projects/media/videos/bulb/480p15/partial_movie_files/Main/1495979052_87982132_2872846356.mp4'
-file 'file:C:/Users/Luka/Desktop/manim2/manim/projects/media/videos/bulb/480p15/partial_movie_files/Main/1495979052_1837148253_39593897.mp4'
-file 'file:C:/Users/Luka/Desktop/manim2/manim/projects/media/videos/bulb/480p15/partial_movie_files/Main/1495979052_2139945750_844753029.mp4'
+file 'file:C:/Users/Luka/Desktop/manim/manim/projects/media/videos/bulb/480p15/partial_movie_files/Main/1495979052_2664269539_1891532984.mp4'

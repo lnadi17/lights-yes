@@ -5,6 +5,8 @@ It has the Jupyter Notebook that implements the linear algebra approach to solvi
 More about this approach can be found out in [this paper](https://dc.ewu.edu/cgi/viewcontent.cgi?article=1166&context=theses). 
 There exists another, shorter [paper](http://buzzard.ups.edu/courses/2007spring/projects/olson-paper-revised.pdf) that I used as a reference.
 
+<img src="images/readme_anim.gif" width="300px"> <img src="images/readme_anim2.gif" width="300px" loop>
+
 ## Introduction Video
 
 I decided to make a full video about the linear algebra solutions of this game, but I abandoned it after some time. However, intro video (in Georgian language) and all the manim code remains in this repository. Here it is:

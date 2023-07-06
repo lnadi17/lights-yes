@@ -48,3 +48,6 @@ If board has a solution, it is also calculated how many unique solutions it has,
 ```
 
 Turns out the original 5x5 game has 5 unique solutions. 79x79 had the most unique solutions, reaching `18446744073709551617`, which is the number of estimated possible worlds in Minecraft.
+
+## More Info
+This repository is connected to my another project [bulb-hell](https://github.com/lnadi17/bulb-hell), which is an Unity game very similar to the Lights Out. It also has been published on [Play Store](https://play.google.com/store/apps/details?id=com.LukaNadiradze.LightsOn). Further development of this project is not scheduled at the moment.
